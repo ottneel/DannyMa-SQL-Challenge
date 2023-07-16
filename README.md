@@ -16,4 +16,4 @@ In this case study, Danny owns a resaurant called Danny's Diner. Danny’s Diner
 
 
 I attempted this project using Ms SQLServer.
-this is the link to the repo
+this is the link to the [repo](https://github.com/ottneel/DannyMa-SQL-Challenge/tree/main/DannyMa's%20SQL%20challenge/Challenge%201)
